@@ -6,7 +6,7 @@ W skrypcie create.sql przygotuj zestaw komend SQL, które tworzą tabele i relac
 ### Zad. 2 
 Przygotuj skrypt insert.sql w którym będą komendy SQL do uzepełnienia tabel danymi z plików people_data.csv oraz life_events.csv
 ### Zad. 3 
-Przygotuj skrypt Update.sql z komendami które utworzą relacje między osobami
+Przygotuj skrypt update.sql z komendami które utworzą relacje między osobami
 ### Zad. 4 
 Przygotuj skrypt select.sql z zapytaniami które:
 1. Liczy liczbę osób będących w związku małżeńskim i niezamężnych. 
