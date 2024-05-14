@@ -9,7 +9,7 @@ Przygotuj skrypt **insert.sql** w którym będą komendy SQL do uzepełnienia ta
 ### Zad. 3 
 Przygotuj skrypt **update.sql** z komendami które utworzą relacje między osobami
 ### Zad. 4 
-Przygotuj skrypt select.sql z zapytaniami które:
+Przygotuj skrypt **select.sql** z zapytaniami które:
 1. Liczy liczbę osób będących w związku małżeńskim i niezamężnych. 
 2. Pobiera dane osób wraz z ich wydarzeniami życiowymi, sortując je malejąco według daty wydarzenia, limitując wynik do 10 rekordów.
 3. Wyświetla imiona i nazwiska osób oraz ich małżonków, którzy są w związku małżeńskim.
